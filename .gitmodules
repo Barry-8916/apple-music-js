@@ -1,0 +1,3 @@
+[submodule "ncipher1.2upgrade-backend"]
+	path = ncipher1.2upgrade-backend
+	url = https://github.com/Redzero-sky/ncipher1.2upgrade-backend
